@@ -1,0 +1,16 @@
+{
+  "name": "quiz-app",
+  "version": "1.0.0",
+  "description": "A terminal-based quiz application built with Node.js.",
+  "main": "quiz.js",
+  "scripts": {
+    "start": "node quiz.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["quiz", "nodejs", "interactive"],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
