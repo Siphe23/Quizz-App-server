@@ -20,7 +20,7 @@ Clone the Repository
 
 ## bash
 Copy code
-git clone https://github.com/your-username/quiz-app.git
+git clone https://github.com/Siphe23/Quizz-App-server.git
 cd quiz-app
 Install Dependencies
 Ensure you have Node.js installed, then run:
